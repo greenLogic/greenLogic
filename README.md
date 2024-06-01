@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank Meléndez</h1>
-<h3 align="center">As a queue I am the first to start, and the first to finish. The heaps don´t lie. Big Dict energy.</h3>
+<h3 align="center">As a queue I am the first to start, and the first to finish. The heaps don't lie. Big Dict energy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greenlogic&label=Profile%20views&color=4dba12&style=flat" alt="greenlogic" /> </p>
 
