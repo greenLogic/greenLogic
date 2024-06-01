@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank Meléndez</h1>
-<h3 align="center">As a queue I am first to start, and the first to finish. The heaps don´t lie. Big Dict energy.</h3>
+<h3 align="center">As a queue I am the first to start, and the first to finish. The heaps don´t lie. Big Dict energy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greenlogic&label=Profile%20views&color=0e75b6&style=flat" alt="greenlogic" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://frankmelendez.com/posts](https://frankmelendez.com/posts)
 
-- 💬 Ask me about **The intersection of AI, Cybersecurity and Real World Issues.**
+- 💬 Ask me about **How AI, Cybersecurity  and real world issues intersects**
 
 - 📫 How to reach me **frank@frankmelendez.com**
 
