@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://frankmelendez.com/posts](https://frankmelendez.com/posts)
 
-- 💬 Ask me about **How AI, Cybersecurity  and real world issues intersects**
+- 💬 Ask me about **How AI, Cybersecurity  and Real World Issues intersects**
 
 - 📫 How to reach me **frank@frankmelendez.com**
 
@@ -23,6 +23,10 @@
 <a href="https://kaggle.com/frankam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="frankam" height="30" width="40" /></a>
 <a href="https://hashnode.com/@crackerfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@crackerfrank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/greenlogic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="greenlogic" height="30" width="40" /></a>
+
+<script src="https://tryhackme.com/badge/1170867"></script>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
